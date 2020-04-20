@@ -6,7 +6,7 @@ RUN apt-get -y install git
 
 
 
-RUN git clone https://github.com/nikithapk/first-dock-app.git /var/www/html/
+RUN git clone https://github.com/nikithapk/first-dock-app.git /var/www/html/first-dock-app
 
 
 EXPOSE 80
